@@ -1,0 +1,72 @@
+[
+    {
+        "profile": "https://photo-cdn2.icons8.com/umWNT345dopqd5zFio7JlEXGePIxjhf6R1Kjxuaz5sw/rs:fit:715:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNDcwLzY5ZGRi/OWM5LWZkOGYtNDk0/My1hMmI1LWY3ZmUy/OWIzMmFmNy5qcGc.jpg",
+        "name": "Emily Thompson",
+        "duration": "1d ago",
+        "title": "Weekend Vibes: Relaxing and Unwinding 🌟",
+        "image": "https://images.pexels.com/photos/6796574/pexels-photo-6796574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/VBcfF_9rR2TxGVkNMWaXFFPtAIM6aR_4kZET3YTVgbc/rs:fit:715:1072/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9mMTU3OTFkZWI3/YTQ0NDI2YTNlNWE4/M2E5NTZmYjliMi5q/cGc.jpg",
+        "name": "Jasmine Rodriguez",
+        "duration": "11h",
+        "title": "Monday Motivation: Conquer the Week Ahead! 💪",
+        "image": "https://images.pexels.com/photos/10740865/pexels-photo-10740865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/ZB41N5RCcEC4AD20S46L5WBaL-uOFsQVvtJlJbM-BUU/rs:fit:716:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNjg4L2I2ZjY2/OWJlLWY1YmEtNDg5/Yi1iYTg2LWQxMzZi/MmM2YmNhZS5qcGc.jpg",
+        "name": "Ava Carter",
+        "duration": "10m",
+        "title": "Foodie Adventures: Exploring Local Flavors 🍔🍜",
+        "image": "https://images.pexels.com/photos/13569823/pexels-photo-13569823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/YinZSdxE71I2P1LQqgyqugT78emBV37qtMRHMlIekmc/rs:fit:715:1072/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi9jMTE2ZTUzYTAz/NGE0NWM4OTA4ODhl/MTA3NTgxZTlkMy5q/cGc.jpg",
+        "name": "Mia Johnson",
+        "duration": "5m",
+        "title": "Fitness Journey: Crushing Goals, One Workout at a Time 💦",
+        "image": "https://images.pexels.com/photos/10297772/pexels-photo-10297772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/zn1N6n2k4pygtBbzzjMSxKmoQG2w92WMzkprDgsx8zs/rs:fit:716:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMTUvMmYxZmRj/NjgtNzBiNi00NGRk/LTkzNzMtYTk4MTAy/ZGI4ZmEyLmpwZw.jpg",
+        "name": "Isabella Martinez",
+        "duration": "5h",
+        "title": "Bookworm Alert: Dive into a New Adventure 📚🌈",
+        "image": "https://images.pexels.com/photos/7098048/pexels-photo-7098048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/s81EoSMzyLDvhChtB_TVlAs08a0o_b2y2Zkn4jI53HE/rs:fit:715:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvMzQzLzc4NjIx/NzEzLThmMWItNDdm/ZC05YTA3LWMwY2U1/Yjk5YTFhMC5qcGc.jpg",
+        "name": "Caleb Robinson",
+        "duration": "45m",
+        "title": "Travel Diaries: Discovering Hidden Gems ✈️🗺️",
+        "image": "https://images.pexels.com/photos/2078473/pexels-photo-2078473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/Hna1D74D3KgjUCmnqqzBZvy1gkGl-297SzXvbFuSgkQ/rs:fit:1607:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNTA2LzY2YzI3/YTNiLWZiMTAtNDNi/NS1iN2NhLWViODVl/YWMzY2FmZi5qcGc.jpg",
+        "name": "Ethan Williams",
+        "duration": "3h",
+        "title": "DIY Delights: Crafting Fun for the Weekend 🎨✂️",
+        "image": "https://images.pexels.com/photos/2118656/pexels-photo-2118656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/s8YU2juQnGJMpcignSZ7qlrYf0reh3vL55Tq8GVtAww/rs:fit:1607:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvOTE3Lzc0OTVi/OTJkLTgyZjEtNDMx/YS05MDM3LTBhNDJm/MjdjYzkyMy5qcGc.jpg",
+        "name": "Oliver Davis",
+        "duration": "15m",
+        "title": "Tech Talk: Exploring the Latest Innovations 🚀🔧",
+        "image": "https://images.pexels.com/photos/18104860/pexels-photo-18104860/free-photo-of-pelican-flying-over-ocean.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/dwt4ulfozPP7D8YfQATaAz2KZmq1epWmoNJpyByuH8w/rs:fit:716:1072/wm:1:re:0:0:0.65/wmid:moose/q:98/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3NhdGEvb3JpZ2lu/YWwvNDczLzk2OGM4/ZWFiLWI3OTktNDI3/Ni1iNzVmLWRkNDNi/ZTY1ZmE1MS5qcGc.jpg",
+        "name": "Liam Anderson",
+        "duration": "2h",
+        "title": "Wellness Wednesday: Mind, Body, and Soul Recharge 🧘‍♂️💆‍♀️",
+        "image": "https://images.pexels.com/photos/17736421/pexels-photo-17736421/free-photo-of-close-up-of-a-little-cormorant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "profile": "https://photo-cdn2.icons8.com/0c4yJH0iqNTE_TFxinkR3ifgzrtTCI8L3PgLsBXpxck/rs:fit:1608:1072/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5l/eHRlcm5hbC9hMmE0/Mi85NjQ4MWUyMjMx/ZDk0NTY2OWUzM2Jl/ZTk2Y2FhOWY1Ny5q/cGc.jpg",
+        "name": "Jackson Taylor",
+        "duration": "30m",
+        "title": "Throwback Thursday: Nostalgic Moments and Memories 📸🕰️",
+        "image": "https://images.pexels.com/photos/18118276/pexels-photo-18118276/free-photo-of-tropical-bird-on-a-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]

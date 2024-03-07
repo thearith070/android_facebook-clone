@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">facebook-clone</string>
+    <string name="facebook">facebook</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="what_on_your_mind">What\'s on your mind?</string>
+    <string name="create_story">Create\nStory</string>
+</resources>

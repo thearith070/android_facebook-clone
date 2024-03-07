@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color2">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card"
+            android:layout_width="@dimen/margin_x12"
+            android:layout_height="@dimen/margin_x12"
+            android:layout_centerInParent="true"
+            android:layout_margin="@dimen/margin_x2"
+            app:cardCornerRadius="@dimen/margin_x_large"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/img_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/img_profile" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_x2"
+            android:layout_marginTop="@dimen/margin_x2"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@id/card"
+            app:layout_constraintTop_toTopOf="@id/card"
+            tools:text="Ethan Williams" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_x2"
+            android:layout_marginEnd="@dimen/margin_x2"
+            app:layout_constraintBottom_toBottomOf="@id/tv_name"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tv_name"
+            app:srcCompat="@drawable/ic_clear" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_x2"
+            android:layout_marginEnd="@dimen/margin_x2"
+            app:layout_constraintBottom_toBottomOf="@id/tv_name"
+            app:layout_constraintEnd_toStartOf="@id/img_clear"
+            app:layout_constraintTop_toTopOf="@id/tv_name"
+            app:srcCompat="@drawable/ic_more" />
+
+        <TextView
+            android:id="@+id/tv_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="10sp"
+            app:layout_constraintBottom_toBottomOf="@id/card"
+            app:layout_constraintStart_toStartOf="@id/tv_name"
+            tools:text="1h" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_earth"
+            android:layout_width="@dimen/margin_x3"
+            android:layout_height="@dimen/margin_x3"
+            android:layout_marginStart="@dimen/margin_x2"
+            app:layout_constraintBottom_toBottomOf="@id/tv_duration"
+            app:layout_constraintStart_toEndOf="@id/tv_duration"
+            app:layout_constraintTop_toTopOf="@id/tv_duration"
+            app:srcCompat="@drawable/img_earth" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_x2"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:layout_constraintTop_toBottomOf="@id/tv_duration"
+            tools:text="Throwback Thursday: Nostalgic Moments and Memories" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_feed"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_x_medium"
+            android:scaleType="centerCrop"
+            app:layout_constraintTop_toBottomOf="@id/tv_title"
+            tools:src="@drawable/img_profile" />
+
+        <LinearLayout
+            android:id="@+id/ll_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_x3"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/img_feed">
+
+            <include layout="@layout/layout_button_feed" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_x2"
+            android:layout_marginTop="@dimen/margin_x3"
+            android:background="@color/color1"
+            app:layout_constraintTop_toBottomOf="@id/ll_button" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
